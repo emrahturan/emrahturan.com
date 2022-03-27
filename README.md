@@ -1,4 +1,4 @@
-# Hi, I'm [Emrah Turan](https://www.emrahturan.com.tr "Emrah Turan") 👋
+# Hi, I'm [Emrah Turan](https://github.com/emrahturan "Emrah Turan") 👋
 
 * B.Sc. degree in Computer Engineering.
 * Backend development for 2 years part time and 2.5 years full time.
@@ -20,9 +20,5 @@
 <a href="https://emrahturan.medium.com" target="blank">
 <img src="https://www.emrahturan.com.tr/wp-content/uploads/medium_emrahturan.png" height="30" width="30" /></a>
 
-<a href="https://www.emrahturan.com.tr" target="blank">
-<img src="https://www.emrahturan.com.tr/wp-content/uploads/web_emrahturan.png" height="30" width="30" /></a>
-
 <a href="mailto:emrah.trn@outlook.com" target="blank">
 <img src="https://www.emrahturan.com.tr/wp-content/uploads/email_emrahturan.png" height="30" width="30" /></a>
-
