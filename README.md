@@ -14,11 +14,6 @@
 
 ------------
 
-<a href="https://www.linkedin.com/in/emrahturanonline/" target="blank">
-<img src="https://www.emrahturan.com.tr/wp-content/uploads/linkedin_emrahturan.png" height="30" width="30" /></a>
-
-<a href="https://emrahturan.medium.com" target="blank">
-<img src="https://www.emrahturan.com.tr/wp-content/uploads/medium_emrahturan.png" height="30" width="30" /></a>
-
-<a href="mailto:emrah.trn@outlook.com" target="blank">
-<img src="https://www.emrahturan.com.tr/wp-content/uploads/email_emrahturan.png" height="30" width="30" /></a>
+* <a href="https://www.linkedin.com/in/emrahturanonline/" target="blank">Linkedin</a> <br />
+* <a href="https://emrahturan.medium.com" target="blank">Medium</a> <br />
+* <a href="mailto:emrah.trn@outlook.com" target="blank">Email</a>
