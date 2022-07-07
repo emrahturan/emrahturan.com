@@ -11,7 +11,3 @@
 * Solid understanding of code versioning tools such as Git.
 * Solid knowledge of Scrum’s Fundamentals and understanding of Agile.
 * Experience with tools such as Xcode, SourceTree, Jira, Asana
-
-------------
-
-* <a href="https://www.linkedin.com/in/emrahturanonline/" target="blank">Linkedin</a> <br />
