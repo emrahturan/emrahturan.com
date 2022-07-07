@@ -15,5 +15,3 @@
 ------------
 
 * <a href="https://www.linkedin.com/in/emrahturanonline/" target="blank">Linkedin</a> <br />
-* <a href="https://emrahturan.medium.com" target="blank">Medium</a> <br />
-* <a href="mailto:emrah.trn@outlook.com" target="blank">Email</a>
